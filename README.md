@@ -10,5 +10,7 @@ Git status shows the changes made in our file.
 
 1. Open index.html in your browser.
 
+## Another header for checking the merger
 
+1. Check the changes.
 
